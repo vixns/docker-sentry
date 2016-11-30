@@ -1,1 +1,1 @@
-# Sentry with slack plugin
+# Sentry with sentry- plugins
