@@ -1,2 +1,2 @@
 FROM sentry
-RUN pip install sentry-plugins sentry-redmine sentry-opsgenie sentry-trello
+RUN pip install redis-py-cluster sentry-plugins sentry-redmine sentry-opsgenie sentry-trello
